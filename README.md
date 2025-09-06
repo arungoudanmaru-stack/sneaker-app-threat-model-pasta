@@ -14,7 +14,6 @@
 
 **Deliverables in this Repo:**  
 - ✅ PASTA_Report.md — Detailed professional report  
-- ✅ LinkedIn_Post.md — Polished LinkedIn summary  
 - ✅ infographic_pasta_sneaker_app.png — Visual infographic  
 
 **Learning Outcome:**  
