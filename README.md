@@ -18,5 +18,6 @@
 
 **Learning Outcome:**  
 This project demonstrates how applying structured threat modeling with PASTA enables early detection of risks and promotes secure-by-design application development, especially for apps handling financial transactions and user data.  
-[REPORT.docx](https://github.com/user-attachments/files/22188554/REPORT.docx)
+<img width="1059" height="16384" alt="www edrawmax com_pid_" src="https://github.com/user-attachments/assets/72f76a36-8fa3-4e2d-aaeb-24d9a70247bf" />
+
 <img width="1024" height="1536" alt="imageeee" src="https://github.com/user-attachments/assets/a5353cda-63df-4410-84d5-72def556097c" />
